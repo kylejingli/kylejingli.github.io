@@ -1,6 +1,6 @@
-# PopupTweets
-
-Popup tweets plugin for your personal website (Linkedin, facebook liked features)
+---
+layout: default
+---
 
 ## Minimal plugin for popup tweet
 This is a plugin that you can put a popup panel that holds your tweets
@@ -10,6 +10,7 @@ This is a plugin that you can put a popup panel that holds your tweets
 `Here is a demo`_ of `sample effect` 
 
 ![Demo](/demo/web.gif)
+
 
 ### Add popup tweet in your web 
 
@@ -25,7 +26,7 @@ This is a plugin that you can put a popup panel that holds your tweets
 - add css file to your own folder
 
 ```
-/assets/css/junpopup.css
+'junpopup.css'
 ```
     
 - Add the following code to your own website
@@ -34,11 +35,4 @@ This is a plugin that you can put a popup panel that holds your tweets
 include /poptweet.html 
 ```
 
-
-## Author
-
-- [Locky](https://github.com/junlulocky)
-
-## References
-
-- [Jekyll minimal theme](https://github.com/pages-themes/minimal)
+{% include /poptweet.html %}
