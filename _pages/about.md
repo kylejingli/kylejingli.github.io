@@ -21,7 +21,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Research Scientist at the [A\*STAR Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar), where I work in the Trustworthy AI team with Prof. Ivor Tsang. I also go by Kyle.
+I am a Research Scientist at the [A\*STAR Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar), where I work in the Trustworthy AI team with Prof. Ivor Tsang.
 
 My research studies how to make machine learning systems trustworthy when they are deployed in practice. Current directions include:
 
