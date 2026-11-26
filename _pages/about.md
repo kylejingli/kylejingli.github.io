@@ -2,15 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, <a href='https://www.a-star.edu.sg/cfar'>A*STAR Centre for Frontier AI Research (CFAR)</a>, Singapore
+subtitle:
 
 profile:
   align: right
   image: # TODO: add your photo as assets/img/prof_pic.jpg, then set this to prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>A*STAR CFAR</p>
-    <p>Singapore</p>
 
 selected_papers: true
 social: true
