@@ -1,7 +1,8 @@
 ---
 permalink: /robots.txt
 ---
+# Draft mode: block all search engines until the site is ready.
+# To go public, change "Disallow: /" to "Disallow:" and restore the Sitemap line:
+# Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
 User-agent: *
-Disallow:
-
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Disallow: /
