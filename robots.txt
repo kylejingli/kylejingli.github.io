@@ -1,4 +1,5 @@
+# Draft mode: block all search engines until the site is ready.
+# To go public, change "Disallow: /" to "Disallow:" and restore the Sitemap line:
+# Sitemap: https://kylejingli.github.io/sitemap.xml
 User-agent: *
-Disallow:
-
-Sitemap: https://kylejingli.github.io/sitemap.xml
+Disallow: /
